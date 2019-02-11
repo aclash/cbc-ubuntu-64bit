@@ -1,8 +1,6 @@
 CbC - Cflat Compiler (the ubuntu 64bit version)
 ====================
 
-[《自制编译器》](http://www.ituring.com.cn/book/1308)一书中实现的cbc编译器的ubuntu64位版本。这个项目主要解决64位机器上无法正常编译和运行[cbc](https://github.com/aamine/cbc)的问题。
-
 ## 直接安装使用（在ubuntu 64位系统上）
 
 ### 安装依赖
